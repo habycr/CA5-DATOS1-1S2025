@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\Documents\\GitHub\\CA5-DATOS1-1S2025\\CA5 - Algoritmos y estructura de Datos 1 - 1S2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E019BBD-79E7-46B7-A7B8-4E4FDFC89604}|UnitTest_ARBOLES_AVL\\UnitTest_ARBOLES_AVL.csproj|c:\\users\\home\\documents\\github\\ca5-datos1-1s2025\\ca5 - algoritmos y estructura de datos 1 - 1s2025\\unittest_arboles_avl\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E019BBD-79E7-46B7-A7B8-4E4FDFC89604}|UnitTest_ARBOLES_AVL\\UnitTest_ARBOLES_AVL.csproj|solutionrelative:unittest_arboles_avl\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBFA825-6182-40E7-9F65-C84BD2CB43DB}|ARBOLES_AVL\\ARBOLES_AVL.csproj|c:\\users\\home\\documents\\github\\ca5-datos1-1s2025\\ca5 - algoritmos y estructura de datos 1 - 1s2025\\arboles_avl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBFA825-6182-40E7-9F65-C84BD2CB43DB}|ARBOLES_AVL\\ARBOLES_AVL.csproj|solutionrelative:arboles_avl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Documents\\GitHub\\CA5-DATOS1-1S2025\\CA5 - Algoritmos y estructura de Datos 1 - 1S2025\\UnitTest_ARBOLES_AVL\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest_ARBOLES_AVL\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Home\\Documents\\GitHub\\CA5-DATOS1-1S2025\\CA5 - Algoritmos y estructura de Datos 1 - 1S2025\\UnitTest_ARBOLES_AVL\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest_ARBOLES_AVL\\UnitTest1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:26:35.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Documents\\GitHub\\CA5-DATOS1-1S2025\\CA5 - Algoritmos y estructura de Datos 1 - 1S2025\\ARBOLES_AVL\\Program.cs",
+              "RelativeDocumentMoniker": "ARBOLES_AVL\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\Documents\\GitHub\\CA5-DATOS1-1S2025\\CA5 - Algoritmos y estructura de Datos 1 - 1S2025\\ARBOLES_AVL\\Program.cs",
+              "RelativeToolTip": "ARBOLES_AVL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:26:01.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
